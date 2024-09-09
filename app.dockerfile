@@ -8,8 +8,8 @@ WORKDIR /app
 
 ENV MONGODB=meu-mongodb
 EXPOSE 3000
-COPY ../user-registration/package-lock.json .
-COPY ../user-registration/package.json .
+COPY ./user-registration/package-lock.json .
+COPY ./user-registration/package.json .
 RUN npm install
-COPY ../user-registration .
+COPY ./user-registration .
 CMD ["node", "app.js"]
