@@ -1,3 +1,14 @@
+# Projeto: Castrastro de Usuários Utilizando Docker
+### 1 - O que é esse repositório?
+Este repositório pessoal foi criado para praticar e aplicar os conhecimentos adquiridos no curso "Docker Essencial: Primeiros Passos [Curso de Docker para Iniciantes 2023]", disponível em: https://youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N&si=mGsMVv2OnO6KCUhn.
+
+Este repositório utiliza o repositório disponibilizado na aula como upstream: https://github.com/techeducabr/curso-docker-essencial-user-registration.
+
+O projeto fornecido no curso inclui uma aplicação Node.js, que serve como exemplo para a criação dos arquivos necessários para subir os containers da aplicação.
+
+Agradecimentos ao canal TechEduca: https://www.youtube.com/@TechEducaBr.
+
+
 # Projeto: Castrastro de Usuários (user-registration) - NodeJS/Express
 ### 1 - O que é?
 Página web para cadastro de usuários desenvolvido em NodeJS/Express com intuito educacional.
